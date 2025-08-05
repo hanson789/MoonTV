@@ -76,6 +76,9 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
+    },
+    "abc": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "abc资源"
   }
 }
